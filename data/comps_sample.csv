@@ -1,0 +1,12 @@
+Ticker,Company,Sector,EV_USD_m,EBITDA_USD_m,EV_EBITDA,PE,Rev_Growth_%,EBITDA_Margin_%
+AAPL,Apple Inc.,Tech Hardware,2800000,135000,20.7,32.1,7.8,33.2
+MSFT,Microsoft Corp.,Software,3100000,150000,20.7,35.0,14.3,48.0
+NVDA,NVIDIA Corp.,Semiconductors,2500000,120000,20.8,45.2,90.5,57.0
+GOOGL,Alphabet Inc.,Internet,1900000,110000,17.3,28.7,9.1,33.5
+AMZN,Amazon.com Inc.,E-commerce/Cloud,1900000,100000,19.0,62.4,12.7,16.0
+META,Meta Platforms,Social Media,1200000,65000,18.5,27.4,15.8,42.0
+ORCL,Oracle Corp.,Software,475000,25000,19.0,31.8,9.0,41.0
+ADBE,Adobe Inc.,Software,240000,12000,20.0,38.2,10.9,45.0
+CRM,Salesforce Inc.,Software,250000,14000,17.9,33.5,11.4,30.0
+INTC,Intel Corp.,Semiconductors,200000,15000,13.3,22.0,-3.5,24.0
+
