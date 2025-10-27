@@ -137,9 +137,9 @@ def main():
     add_picture(prs, "P/E vs Revenue Growth", chart2, caption="Illustrative only; ensure sector comparability.")
     add_val_summary(prs, df)
     add_bullets_slide(prs, "Methodology & Sources", [
-    f"Universe: {len(df)} listed software comps; currency: USD; base: TTM.",
-    "Valuation: EV/EBITDA & P/E; medians and interquartile range (25–75th).",
-    "Outliers reviewed; results illustrative. Sources: public filings & aggregators."
+        f"Universe: {len(df)} listed software comps; currency: USD; base: TTM.",
+        "Valuation: EV/EBITDA & P/E; medians and interquartile range (25–75th).",
+        "Outliers reviewed; results illustrative. Sources: public filings & aggregators."
 ])
     prs.save(args.out)
     print(f"Saved deck to: {args.out}")
