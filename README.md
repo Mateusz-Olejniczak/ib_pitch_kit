@@ -1,4 +1,1 @@
-# IB Pitch Kit (One-Day MVP) — v2
-Now includes: Valuation Summary (median/25–75th) and P/E vs Growth chart. See `src/generate_pitch.py`.
-Run:
-  python src/generate_pitch.py --csv data/comps_sample.csv --out output/pitch_comps_v2.pptx --title "Tech Comps – Oct 2025"
+Automated Investment Banking Pitch Kit designed to reduce manual data entry errors and speed up the comparable company analysis (Comps) process. The script processes raw financial data and instantly generates formatted PowerPoint slides ready for client presentations, saving analysts hours of formatting time.
